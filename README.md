@@ -1,3 +1,8 @@
+This fork is to fix an issue with the latest cordova version.
+This is only a temporary solution until the upstream repo has been patched.
+===========================================================================
+
+
 
 [![PayPayl donate button](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L3HKQCD9UA35A "Donate once-off to this project using Paypal")
 
